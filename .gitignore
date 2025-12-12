@@ -1,0 +1,13 @@
+# Ignore the database file
+*.db
+*.sqlite3
+
+# Ignore the massive node folders
+node_modules/
+build/
+
+# Ignore python cache and environment
+__pycache__/
+venv/
+.env
+.DS_Store
